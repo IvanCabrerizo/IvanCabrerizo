@@ -10,7 +10,7 @@ Estudiante en desarrollo de aplicaciones multiplataforma de primer año / First-
 *   🖥️  See my portfolio at [GitHub RexoxDev](http://github.com/RexoxDev)
 *   ✉️  You can contact me at [i.cabrerizo@cesjuanpablosegundo.es](mailto:i.cabrerizo@cesjuanpablosegundo.es)
 *   🧠  I'm learning C#, Java, Kotlin, HTML and SQL Server
-*   🤝  I'm open to collaborating on Ahora mismo tengo interés en todas las tecnologías que pueda aprender / Right now I'm interested in all the technologies I can learn
+*   🤝  Ahora mismo tengo interés en todas las tecnologías que pueda aprender / Right now I'm interested in all the technologies I can learn
 *   ⚡  Preparado para aprender algo nuevo cada día y con ganas de ello. / Ready to learn something new every day and looking forward to it.
 *   ### Skills
 <p align="left">
