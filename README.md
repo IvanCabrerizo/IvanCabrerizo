@@ -9,7 +9,7 @@ I am a junior developer recently graduated from the higher degree of multiplatfo
 *   🌍  I'm based in Spain
 *   🖥️  See my portfolio at [GitHub RexoxDev](http://github.com/RexoxDev)
 *   ✉️  You can contact me at [my mail](mailto:ivancabrerizo@gmail.com)
-*   🧠  I have basic training in the following technologies: GIT, C#, Python, SQL, MarkDown, CSS, JavaScript, TypeScript, Angular, MySql, Sql server Figma... Although where I have more experience is in: Kotlin, Java and HTML.
+*   🧠  I have basic training in the following technologies: GIT, C#, Python, SQL, MarkDown, CSS, JavaScript, TypeScript, Angular, MySql, Sql server, Figma... Although where I have more experience is in: Kotlin, Java and HTML.
 *   🤝 Right now I'm interested in all the technologies I can learn
 *   ⚡ Ready to learn something new every day and looking forward to it.
 
