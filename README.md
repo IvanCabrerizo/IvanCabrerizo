@@ -1,7 +1,7 @@
 Hi 👋 My name is Iván Cabrerizo
 ===============================
 
-Android developer
+Android junior developer
 -------------------------------------------------------------------------
 
 I am a junior developer recently graduated from the higher degree of multiplatform application development, although my specialty right now is Android, I am willing to learn any type of technology and thus grow as a professional.
