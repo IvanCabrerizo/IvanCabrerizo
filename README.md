@@ -37,4 +37,4 @@ I'm always eager to learn and improve my skills by working on challenging projec
 ### Socials
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivancabrerizo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge)](https://www.linkedin.com/in/ivan-cabrerizo/)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](www.stackoverflow.com/users/17240257/rexox)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17240257/rexox)
