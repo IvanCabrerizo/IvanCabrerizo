@@ -1,40 +1,34 @@
-Hi 👋 My name is Iván Cabrerizo
+👨‍💻 About Me
 ===============================
+I'm an Android developer with 1 year and 8 months of experience, focused on building mobile applications using Kotlin and the Jetpack ecosystem. Lately, I've been working mainly with Jetpack Compose, exploring its declarative approach to creating modern, reactive user interfaces.
 
-Android junior developer
--------------------------------------------------------------------------
+📱 I have a background in mobile development and hands-on experience with tools like Firebase, navigation, state management, architecture (MVVM), Room, and more.
 
-I am a junior developer recently graduated from the higher degree of multiplatform application development, although my specialty right now is Android, I am willing to learn any type of technology and thus grow as a professional.
+🌐 I also have basic knowledge of web development, Java, Python, MySQL, and C#, which allows me to adapt easily to different environments and technologies.
 
-*   🌍  I'm based in Spain
-*   🖥️  See my portfolio at [GitHub RexoxDev](http://github.com/RexoxDev)
-*   ✉️  You can contact me at [my mail](mailto:ivancabrerizo@gmail.com)
-*   🧠  I have basic training in the following technologies: GIT, C#, Python, SQL, MarkDown, CSS, JavaScript, TypeScript, Angular, MySql, Sql server, Figma... Although where I have more experience is in: Kotlin, Java and HTML.
-*   🤝 Right now I'm interested in all the technologies I can learn
-*   ⚡ Ready to learn something new every day and looking forward to it.
+🇪🇦  I'm based in Spain.
 
+I'm always eager to learn and improve my skills by working on challenging projects that help me grow as a developer.
 
-*   ### Skills
-<p align="left">
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/git-colored.svg" width="36" height="36" alt="GIT" />
-                                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-                                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-                                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-                                <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/css3-colored.svg" width="36" height="36"alt="CSS3"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/javascript-colored.svg" width="36" height="36"alt="JavaScript"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/typescript-colored.svg" width="36" height="36"alt="TypeScript"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/angularjs-colored.svg" width="36" height="36"alt="Angular"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/python-colored.svg" width="36" height="36"alt="Python"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/firebase-colored.svg" width="36" height="36"alt="Firebase"/>
-                                <img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/a3980c779fb39d1ef4235fa8c3d9447ca6708b0b/public/icons/skills/mysql-colored.svg" width="36" height="36"alt="MySql"/>
-                                
-                                
-</p>
+### Main Skills
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackCompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)
+![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
                     
 ### Socials
-<p align="left">             
-                      <a href="https://www.github.com/RexoxDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32"/></a>   
-                      <a href="https://www.linkedin.com/in/ivan-cabrerizo/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32"/></a>
-                      <a href="https://www.stackoverflow.com/users/17240257/rexox" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32"/></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivancabrerizo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge)](https://www.linkedin.com/in/ivan-cabrerizo/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](www.stackoverflow.com/users/17240257/rexox)
