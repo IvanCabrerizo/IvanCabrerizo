@@ -1,6 +1,6 @@
 👨‍💻 About Me
 ===============================
-I'm an Android developer with 1 year and 8 months of experience, focused on building mobile applications using Kotlin and the Jetpack ecosystem. Lately, I've been working mainly with Jetpack Compose, exploring its declarative approach to creating modern, reactive user interfaces.
+I'm an Android developer, focused on building mobile applications using Kotlin and the Jetpack ecosystem. Lately, I've been working mainly with Jetpack Compose, exploring its declarative approach to creating modern, reactive user interfaces.
 
 📱 I have a background in mobile development and hands-on experience with tools like Firebase, navigation, state management, architecture (MVVM), Room, and more.
 
